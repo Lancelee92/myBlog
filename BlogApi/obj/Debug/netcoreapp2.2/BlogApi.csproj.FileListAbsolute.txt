@@ -1,0 +1,14 @@
+/home/yc/project/myBlog/BlogApi/bin/Debug/netcoreapp2.2/BlogApi.deps.json
+/home/yc/project/myBlog/BlogApi/bin/Debug/netcoreapp2.2/BlogApi.runtimeconfig.json
+/home/yc/project/myBlog/BlogApi/bin/Debug/netcoreapp2.2/BlogApi.runtimeconfig.dev.json
+/home/yc/project/myBlog/BlogApi/bin/Debug/netcoreapp2.2/BlogApi.dll
+/home/yc/project/myBlog/BlogApi/bin/Debug/netcoreapp2.2/BlogApi.pdb
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.csprojAssemblyReference.cache
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.csproj.CoreCompileInputs.cache
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.RazorAssemblyInfo.cache
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.RazorAssemblyInfo.cs
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.AssemblyInfoInputs.cache
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.AssemblyInfo.cs
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.RazorTargetAssemblyInfo.cache
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.dll
+/home/yc/project/myBlog/BlogApi/obj/Debug/netcoreapp2.2/BlogApi.pdb
